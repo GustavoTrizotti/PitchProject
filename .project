@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>LojaMusical</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>mysql-connector-java-8.0.26.jar</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/mysql-connector-java-8.0.26.jar</location>
+		</link>
+		<link>
+			<name>src/img/BG_AC.png</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/src/img/BG_AC.png</location>
+		</link>
+		<link>
+			<name>src/img/BG_AD.png</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/src/img/BG_AD.png</location>
+		</link>
+		<link>
+			<name>src/img/BG_AR.png</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/src/img/BG_AR.png</location>
+		</link>
+		<link>
+			<name>src/img/BG_AU.png</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/src/img/BG_AU.png</location>
+		</link>
+		<link>
+			<name>src/img/BG_ArC.png</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/src/img/BG_ArC.png</location>
+		</link>
+		<link>
+			<name>src/img/BG_ArD.png</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/src/img/BG_ArD.png</location>
+		</link>
+		<link>
+			<name>src/img/BG_ArR.png</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/src/img/BG_ArR.png</location>
+		</link>
+		<link>
+			<name>src/img/BG_ArU.png</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/src/img/BG_ArU.png</location>
+		</link>
+		<link>
+			<name>src/img/BG_GC.png</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/src/img/BG_GC.png</location>
+		</link>
+		<link>
+			<name>src/img/BG_GD.png</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/src/img/BG_GD.png</location>
+		</link>
+		<link>
+			<name>src/img/BG_GR.png</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/src/img/BG_GR.png</location>
+		</link>
+		<link>
+			<name>src/img/BG_GU.png</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/src/img/BG_GU.png</location>
+		</link>
+		<link>
+			<name>src/img/BG_MC.png</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/src/img/BG_MC.png</location>
+		</link>
+		<link>
+			<name>src/img/BG_MD.png</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/src/img/BG_MD.png</location>
+		</link>
+		<link>
+			<name>src/img/BG_MENU.png</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/src/img/BG_MENU.png</location>
+		</link>
+		<link>
+			<name>src/img/BG_MR.png</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/src/img/BG_MR.png</location>
+		</link>
+		<link>
+			<name>src/img/BG_MU.png</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/src/img/BG_MU.png</location>
+		</link>
+		<link>
+			<name>src/img/CREATE.png</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/src/img/CREATE.png</location>
+		</link>
+		<link>
+			<name>src/img/DELETE.png</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/src/img/DELETE.png</location>
+		</link>
+		<link>
+			<name>src/img/READ.png</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/src/img/READ.png</location>
+		</link>
+		<link>
+			<name>src/img/UPDATE.png</name>
+			<type>1</type>
+			<location>Z:/Arquivos de Programas (HD)/Eclipse Workspace/LojaMusical/src/img/UPDATE.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
